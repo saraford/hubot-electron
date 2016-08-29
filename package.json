@@ -1,5 +1,5 @@
 {
-  "name":        "hubot-sample",
+  "name":        "hubot-electron",
   "version":     "0.0.1",
   "description": "electron adapter for hubot",
   "licenses":     [{
